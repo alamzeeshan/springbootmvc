@@ -1,0 +1,3 @@
+http://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#howto-configure-log4j-for-logging
+
+http://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html
